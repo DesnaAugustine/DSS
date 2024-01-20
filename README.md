@@ -1,1 +1,3 @@
-# DSS
+flask
+Gunicorn
+Scikit-learn
